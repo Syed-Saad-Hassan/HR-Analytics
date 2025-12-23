@@ -1,10 +1,14 @@
-## 📊 Dashboards
+# 📊 Dashboards
 
-### 🔹 Power BI Dashboard
-![Power BI](dashboards/powerbi_hr_analytics_dashboard.png.jpeg)
+## 🔹 Power BI Dashboard
+![Power BI Dashboard](powerbi_hr_analytics_dashboard.png.jpeg)
 
-### 🔹 Tableau Dashboard
-![Tableau](dashboards/tableau_hr_analytics_dashboard.png.jpeg)
+---
 
-### 🔹 Excel Dashboard
-![Excel](dashboards/excel_hr_analytics_dashboard.png.jpeg)
+## 🔹 Tableau Dashboard
+![Tableau Dashboard](tableau_hr_analytics_dashboard.png.jpeg)
+
+---
+
+## 🔹 Excel Dashboard
+![Excel Dashboard](excel_hr_analytics_dashboard.png.jpeg)
