@@ -29,8 +29,16 @@ Using Excel, MySQL, Power BI, and Tableau, I cleaned and analyzed 50,000+ employ
 - Attrition analysis by department, age, income, and job role
 - Dashboard creation in Power BI and Tableau
 
-## 📈 Dashboards
-(Screenshots will be added here)
+## 📊 Dashboards
+
+### Power BI Dashboard
+![Power BI Dashboard](dashboards/powerbi_hr_analytics_dashboard.png)
+
+### Tableau Dashboard
+![Tableau Dashboard](dashboards/tableau_hr_analytics_dashboard.png)
+
+### Excel Dashboard
+![Excel Dashboard](dashboards/excel_hr_analytics_dashboard.png)
 
 ## 🎯 Key Insights
 - Higher attrition observed in early-career employees
